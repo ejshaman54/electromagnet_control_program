@@ -2,8 +2,7 @@ unit hall_readout;
 
 {$mode objfpc}{$H+}
 
-interface
-
+interface 
 uses
   Classes, SysUtils, Math;
 
