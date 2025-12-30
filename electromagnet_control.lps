@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="electromagnet_control.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="19" Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="EMForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="10"/>
+        <CursorPos X="26" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="daq_comedi.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="25" Y="227"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="electromagnet_control.lpr"/>
+      </Position1>
+      <Position2>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="11" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="22" Column="71"/>
+      </Position4>
+      <Position5>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="21"/>
+      </Position5>
+      <Position6>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="13" Column="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="electromagnet_control.lpr"/>
+        <Caret Line="22" Column="62"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="electromagnet_control.lpr"/>
+        <Line Value="22"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
