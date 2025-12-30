@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils;
-
+  
 type
   // Opaque C types
   Pcomedi_t = Pointer;
